@@ -1,0 +1,32 @@
+{
+  "Data": {
+    "Offer": [
+      {
+        "AccountId": "string",
+        "OfferId": "string",
+        "OfferType": "string",
+        "Description": "string",
+        "StartDateTime": "2021-05-21T13:35:22.311Z",
+        "EndDateTime": "2021-05-21T13:35:22.311Z",
+        "Rate": "string",
+        "Value": 0,
+        "Term": "string",
+        "URL": "https://www.abc.com",
+        "Amount": {
+          "Amount": "500",
+          "Currency": "INR"
+        },
+        "Fee": {
+          "Amount": "500",
+          "Currency": "INR"
+        }
+      }
+    ]
+  },
+  "Links": {
+    "Self": "//"
+  },
+  "Meta": {
+    "TotalPages": 1
+  }
+}
